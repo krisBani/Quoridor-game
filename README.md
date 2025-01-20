@@ -9,7 +9,7 @@ Quoridor est un jeu de société classique où les joueurs doivent atteindre le 
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://votre-repo-url.git
+   git clone https://github.com/krisBani/Quoridor-game.git
    cd quoridor
    ```
 
@@ -49,11 +49,3 @@ python tests.py
 ## Contribuer
 
 Les contributions sont les bienvenues ! Veuillez soumettre une demande de tirage (pull request) pour toute amélioration ou correction.
-
-## Auteurs
-
-- [Votre Nom](https://votre-site-web.com)
-
-## License
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
